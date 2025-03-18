@@ -3,6 +3,7 @@ channels:
   - pytorch
   - conda-forge
   - defaults
+  - pytorch3d
 dependencies:
   - cudatoolkit=11.6
   - plyfile=0.8.1
