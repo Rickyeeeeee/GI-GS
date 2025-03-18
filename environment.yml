@@ -18,6 +18,4 @@ dependencies:
   - matplotlib 
   - tqdm
   - tensorboard
-  pip:
-    - opencv-python
 
