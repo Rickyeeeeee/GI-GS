@@ -13,10 +13,11 @@ dependencies:
   - torchvision=0.13.1
   - pytorch3d=0.3.0
   - trimesh=4.4.1
-  - opencv-python
   - Ninja
   - kornia
   - matplotlib 
   - tqdm
   - tensorboard
+  pip:
+    - opencv-python
 
